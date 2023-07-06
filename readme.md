@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://lights-one.vercel.app/
+[Lights](https://lights-one.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
